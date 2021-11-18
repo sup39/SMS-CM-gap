@@ -16,3 +16,4 @@ jupyter notebook
 ## Credit
 The file `memorylib.py` in this repo is a copy from
 [QbeRoot/sms-livecol](https://github.com/QbeRoot/sms-livecol).
+This file does NOT belong to sup39.
